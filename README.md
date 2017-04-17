@@ -1,1 +1,1 @@
-"# script used in js" 
+# script used in js
